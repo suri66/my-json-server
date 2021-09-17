@@ -1,2 +1,0 @@
-# my-json-server
-A 
